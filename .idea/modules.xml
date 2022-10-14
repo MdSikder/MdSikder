@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../KloverCloud/.idea/KloverCloud.iml" filepath="$PROJECT_DIR$/../KloverCloud/.idea/KloverCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/../KloverCloud2/.idea/KloverCloud2.iml" filepath="$PROJECT_DIR$/../KloverCloud2/.idea/KloverCloud2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KloverCloudCluster/.idea/KloverCloudCluster.iml" filepath="$PROJECT_DIR$/../KloverCloudCluster/.idea/KloverCloudCluster.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearningSeleniumWithPython.iml" filepath="$PROJECT_DIR$/.idea/LearningSeleniumWithPython.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Namespace/.idea/Namespace.iml" filepath="$PROJECT_DIR$/../Namespace/.idea/Namespace.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PythonPOM/.idea/PythonPOM.iml" filepath="$PROJECT_DIR$/../PythonPOM/.idea/PythonPOM.iml" />

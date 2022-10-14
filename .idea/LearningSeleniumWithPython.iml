@@ -12,5 +12,6 @@
     <orderEntry type="module" module-name="KloverCloud2" />
     <orderEntry type="module" module-name="pythonpractice" />
     <orderEntry type="module" module-name="PythonPOM" />
+    <orderEntry type="module" module-name="KloverCloudCluster" />
   </component>
 </module>

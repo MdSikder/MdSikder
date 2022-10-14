@@ -1,6 +1,6 @@
 import unittest
-from structure2.Pages.TC01 import Home
-from structure2.Pages.TC02 import Home2
+from structure2.Pages.test_TC01 import Home
+from structure2.Pages.test_TC02 import Home2
 
 
 class MyTestCase(unittest.TestCase):

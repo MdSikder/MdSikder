@@ -1,7 +1,15 @@
 import time
+import allure_commons.types
+from allure_commons.types import AttachmentType
+from selenium import webdriver
+import allure
+import pytest
+from selenium.webdriver.common.by import By
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from StructureComplete.Test.TestUtility.screenShot import SS
+
 
 from structure3.PageObject.POMTC002 import Main
 
@@ -16,8 +24,9 @@ def capture_screenshot(d, path):
     d.save_screenshot(file_name)
 
 
+@allure.severity(allure.severity_level.NORMAL)
 class Test1(EnvironmentSetup):
-
+    @allure.severity(allure.severity_level.MINOR)
     def test1(self):
         pageUrl = "https://rahulshettyacademy.com/locatorspractice/"
         driver = self.driver
@@ -65,3 +74,5 @@ class Test1(EnvironmentSetup):
         time.sleep(5)
         print("LogIn Successfully")
         capture_screenshot(driver, "./loc/")
+
+
