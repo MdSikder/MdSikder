@@ -29,23 +29,35 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 #### Mobile App Automation Testing: 
 ![Appium](https://img.shields.io/badge/-Appium-43B02A?style=flat&logo=appium&logoColor=white) ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-3776AB?style=flat&logo=robot-framework&logoColor=white)
 
-- **Desktop App Automation Testing Tools**: 
-  - Sikuli, Robot Framework
+#### Desktop App Automation Testing Tools: 
+  ![Sikuli](https://img.shields.io/badge/-Sikuli-45A4DF?style=flat&logo=sikuli&logoColor=white)
+  ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 
-- **Performance Testing Tools**: 
-  - JMeter, Locust
+#### Performance Testing Tools: 
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
+![Locust](https://img.shields.io/badge/-Locust-0DBA3E?style=flat&logo=locust&logoColor=white)
 
-- **Security Testing Tools**: 
-  - Nmap, Penetration Testing, SQL Injection
+#### Security Testing Tools: 
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-E03C31?style=flat&logo=penetration-testing&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/-SQL%20Injection-CC0000?style=flat&logo=sql-injection&logoColor=white)
 
-- **Concepts**:
-  - SDLC, STLC, TDD, OOP
+#### Concepts:
+![SDLC](https://img.shields.io/badge/-SDLC-0078D4?style=flat&logo=sdlc&logoColor=white)
+![STLC](https://img.shields.io/badge/-STLC-FF5733?style=flat&logo=stlc&logoColor=white)
+![TDD](https://img.shields.io/badge/-TDD-00A99D?style=flat&logo=tdd&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-5A009D?style=flat&logo=oop&logoColor=white)
 
-- **CI/CD & DevOps**: 
-  - Jenkins, GitLab CI, Azure DevOps
+#### CI/CD & DevOps: 
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-- **Project Management & Collaboration**: 
-  - JIRA, Confluence, ClickUp, Xmind
+#### project Management & Collaboration: 
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
+![Xmind](https://img.shields.io/badge/-Xmind-F06000?style=flat&logo=xmind&logoColor=white)
 
 ---
 
