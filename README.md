@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Your Name]
+Hi there! 👋 I'm Rased Sikder
 🧪 Software QA Engineer | 🚀 Passionate about Quality Assurance & Test Automation
 
 Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack for ensuring that software products meet the highest standards of quality. My passion lies in identifying bugs, preventing defects, and improving the overall user experience through meticulous testing and cutting-edge automation techniques.
@@ -52,9 +52,9 @@ Project Management & Collaboration:
 
 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username= MdSikder&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= MdSikder&layout=compact&theme=radical)
 
 🤝 Let's Connect
 
@@ -81,4 +81,5 @@ Thanks for visiting my profile! Feel free to explore my repositories and reach o
 
 ---
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/ MdSikder)
+
