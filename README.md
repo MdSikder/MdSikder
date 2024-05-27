@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 
 ### 🌟 Key Projects
 
-1. **Automated Testing Suite for E-commerce Platform**
+1. **Automation Testing Framework**
    - **Technologies**: Selenium, TestNG, Jenkins
    - **Description**: Developed a comprehensive automated testing suite to streamline regression testing, reducing testing time by 60% and ensuring consistent product quality.
 
