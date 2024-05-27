@@ -26,10 +26,10 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 #### Testing Frameworks: 
   ![PyTest](https://img.shields.io/badge/-PyTest-3776AB?style=flat&logo=pytest&logoColor=white) ![TestNG](https://img.shields.io/badge/-TestNG-25A162?style=flat&logo=testng&logoColor=white)
 
-#### Mobile App Automation Testing: 
+#### Mobile App Automation: 
 ![Appium](https://img.shields.io/badge/-Appium-43B02A?style=flat&logo=appium&logoColor=white) ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-3776AB?style=flat&logo=robot-framework&logoColor=white)
 
-#### Desktop App Automation Testing Tools: 
+#### Desktop App Automation: 
   ![Sikuli](https://img.shields.io/badge/-Sikuli-45A4DF?style=flat&logo=sikuli&logoColor=white)
   ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 
