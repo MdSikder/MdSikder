@@ -68,7 +68,6 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 
 ---
 
-
 ### 🌟 Key Projects
 
 1. **Automation Testing Framework**
