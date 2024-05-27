@@ -2,7 +2,7 @@
 
 ### 🧪 Software QA Engineer | 🚀 Passionate about Quality Assurance & Test Automation
 
-Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack for ensuring that software products meet the highest standards of quality. My passion lies in identifying bugs, preventing defects, and improving the overall user experience through meticulous testing and cutting-edge automation techniques.
+With over 2.5 years of experience in Software Quality Assurance, I specialize in automated testing, test case design, and agile methodologies. I excel at identifying critical issues early in the development process, resulting in higher-quality software and reduced time to market.
 
 ---
 
