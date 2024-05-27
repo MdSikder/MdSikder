@@ -60,7 +60,7 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 ![Xmind](https://img.shields.io/badge/-Xmind-F06000?style=flat&logo=xmind&logoColor=white)
 
 ---
-## Professional Experience
+### 💼 Professional Experience
 ### Software QA Engineer
 **KloverCloud | Sept 2022 - Present**
 - Developed automated test scripts using Selenium and JUnit, reducing manual testing efforts by 60%.
