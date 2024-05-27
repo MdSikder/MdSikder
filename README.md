@@ -117,7 +117,6 @@ Welcome to my GitHub profile! I am a dedicated Software QA Engineer with a knack
 - 🌱 Passionate about learning new testing tools and methodologies.
 
 ---
-Your GitHub profile looks great! Adding certifications can certainly enhance your profile and showcase your dedication to continuous learning and skill development. Here's how you can integrate them into your profile:
 
 ---
 
@@ -132,9 +131,6 @@ Your GitHub profile looks great! Adding certifications can certainly enhance you
    - **Duration**: March 2019 to June 2019
    - **Provider**: Riseup Labs, Dhaka, Bangladesh
    - **Description**: Acquired proficiency in iOS app development through hands-on training, enabling the creation of high-quality mobile applications for the iOS platform.
-Certainly! Including your achievement in the short film competition adds another dimension to your profile, highlighting your creativity and involvement in extracurricular activities. Here's how you can incorporate it:
-
-Absolutely! Adding an icon will make your Awards and Achievements section more visually appealing. Here's how you can include it along with your position as "Assistant Director":
 
 ### 🏆 Awards and Achievements
 
