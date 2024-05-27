@@ -53,7 +53,7 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-#### project Management & Collaboration: 
+#### Project Management & Collaboration: 
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
