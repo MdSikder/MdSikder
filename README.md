@@ -61,21 +61,29 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 
 ---
 ### 💼 Professional Experience
+
 ### Software QA Engineer
 **KloverCloud | Sept 2022 - Present**
 - Developed automated test scripts using Selenium and JUnit, reducing manual testing efforts by 60%.
 - Implemented a continuous integration process, leading to a 30% reduction in deployment errors.
 - Conducted performance testing and identified key bottlenecks, improving application response time by 40%.
+- Collaborated with the development team to ensure seamless integration of new features, enhancing overall product quality.
+- Provided training and mentorship to junior QA engineers, fostering a culture of continuous improvement and knowledge sharing.
 
 ### QA Analyst
 **CelfiTech | Aug 2021 - Aug 2022**
 - Led the QA team through multiple software releases, achieving a 95% defect detection rate before production.
-- Created comprehensive test plans and test cases for new features, ensuring thorough coverage.
+- Created comprehensive test plans and test cases for new features, ensuring thorough coverage and adherence to specifications.
+- Coordinated with cross-functional teams to streamline testing processes and enhance communication, resulting in faster issue resolution.
+- Utilized various testing tools and methodologies to perform functional, regression, and acceptance testing.
+- Documented and reported bugs and issues, working closely with developers to ensure timely fixes and improvements.
 
 ### Intern
 **Frostcherry IT & Software Solutions | Jan 2020 - Mar 2020**
-- Led the QA team through multiple software releases, achieving a 95% defect detection rate before production.
-- Created comprehensive test plans and test cases for new features, ensuring thorough coverage.
+- Developed a website as part of an industrial internship, using PHP, Laravel, HTML, CSS, Bootstrap, and MySQL databases.
+- Gained practical experience in full-stack web development, from front-end design to back-end database management.
+- Assisted in debugging and troubleshooting code, contributing to the overall project success.
+- Learned best practices in software development and project management, applying them to real-world scenarios.
 ---
 
 ### 🌟 Key Projects
