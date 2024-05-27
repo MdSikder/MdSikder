@@ -10,7 +10,7 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 
 - 🏢 **Current Role**: SQA Engineer Lead at [KloverCloud](https://www.klovercloud.com/)
 - 🎓 **Education**: Bachelor's in Computer Science from [BSMRSTU](https://www.bsmrstu.edu.bd/s/)
-- 💼 **Experience**: 2 years in Software Quality Assurance, Test Automation, and Manual Testing
+- 💼 **Experience**: 2.5 years in Software Quality Assurance, Test Automation, and Manual Testing
 - 🌐 **Location**: Dhaka, Bangladesh
 
 ---
@@ -60,12 +60,22 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 ![Xmind](https://img.shields.io/badge/-Xmind-F06000?style=flat&logo=xmind&logoColor=white)
 
 ---
+## Professional Experience
+### Software QA Engineer
+**KloverCloud | Sept 2022 - Present**
+- Developed automated test scripts using Selenium and JUnit, reducing manual testing efforts by 60%.
+- Implemented a continuous integration process, leading to a 30% reduction in deployment errors.
+- Conducted performance testing and identified key bottlenecks, improving application response time by 40%.
 
-### 💼 My Previous Jobs
+### QA Analyst
+**CelfiTech | Aug 2021 - Aug 2022**
+- Led the QA team through multiple software releases, achieving a 95% defect detection rate before production.
+- Created comprehensive test plans and test cases for new features, ensuring thorough coverage.
 
-- **CelfiTech** - Software QA Engineer (August 2021 to August 2022)
-- **Frostcherry IT & Software Solutions** - Intern (January 2020 to March 2020)
-
+### Intern
+**Frostcherry IT & Software Solutions | Jan 2020 - Mar 2020**
+- Led the QA team through multiple software releases, achieving a 95% defect detection rate before production.
+- Created comprehensive test plans and test cases for new features, ensuring thorough coverage.
 ---
 
 ### 🌟 Key Projects
