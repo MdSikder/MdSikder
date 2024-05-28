@@ -139,7 +139,14 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 
 ### 🎓 Certifications
 
-1. **SQA and Cyber Security**
+
+### Selenium WebDriver with Java
+- **Duration**: 3 hours 37 minutes (May 2024)
+- **Provider**: Test Automation University
+- **Description**: Completed a course in Selenium WebDriver with Java, gaining expertise in automating web browser interactions for software testing. This enhances skills in streamlining the testing process and improving software quality.
+- **Certificate**: [View Certificate](https://us-central1-testautomationu-9e0b6.cloudfunctions.net/app/sharable/4f74a3e7)
+
+2. **SQA and Cyber Security**
    - **Duration**: June 2022 to August 2022
    - **Provider**: IT Training BD
    - **Description**: Completed a comprehensive course covering Software Quality Assurance and Cyber Security, enhancing skills in ensuring software reliability and security.
